@@ -1,1 +1,1 @@
-# curtain-line-animation
+A simple Js animation of a curtain line on moves move
